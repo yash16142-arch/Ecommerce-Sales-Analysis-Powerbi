@@ -3,7 +3,6 @@
 This project focuses on analyzing e-commerce sales performance using Microsoft Power BI.
 The dashboard provides insights into total revenue, gross profit, units sold, orders, profit margin, product categories, sales platforms, monthly sales trends, and country-wise performance.
 ## Dashboard Preview
-## Dashboard Preview
 ![E-Commerce Sales Dashboard](ecommerce_dashboard.png)
 ## Project Objectives
 - Analyze overall e-commerce sales performance.
@@ -42,24 +41,6 @@ The dashboard provides insights into total revenue, gross profit, units sold, or
 - Monthly sales and profit trends.
 - Country performance table.
 - Interactive filters for year-month, country, and product.
-## Repository Structure
-```text
-ecommerce-sales-analysis-powerbi/
-│
-├── data/
-│   └── ecommerce_sales.csv
-│
-├── dashboard/
-│   └── Ecommerce_Sales_Dashboard.pbix
-│
-├── images/
-│   └── ecommerce_dashboard.png
-│
-├── reports/
-│   └── Project_Report.pdf
-│
-└── README.md
-```
 ## Business Impact
 This dashboard helps businesses monitor sales performance, identify profitable product categories, compare sales channels, and understand geographical performance.
 These insights can support better business decisions, sales planning, and profitability improvement.
